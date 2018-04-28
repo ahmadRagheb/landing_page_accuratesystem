@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include accurate_erp *.css
+recursive-include accurate_erp *.csv
+recursive-include accurate_erp *.html
+recursive-include accurate_erp *.ico
+recursive-include accurate_erp *.js
+recursive-include accurate_erp *.json
+recursive-include accurate_erp *.md
+recursive-include accurate_erp *.png
+recursive-include accurate_erp *.py
+recursive-include accurate_erp *.svg
+recursive-include accurate_erp *.txt
+recursive-exclude accurate_erp *.pyc
