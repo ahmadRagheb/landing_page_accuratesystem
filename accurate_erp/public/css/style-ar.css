@@ -1,0 +1,41 @@
+/*Start Ovveride*/
+
+.flex-end {
+  justify-content: flex-start;
+}
+
+.who-accurate .box h3,
+.who-accurate .box p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.list-unstyled {
+  padding: 0;
+}
+.footer h6 a {
+  padding: 0;
+  padding-right: 5px;
+}
+
+.price_table .price_box ul {
+  padding: 0;
+}
+
+@media (max-width: 991.98px) {
+
+  .main-header .flex-end a.language {
+    margin-left: 0;
+    margin-right: 15px;
+  }
+
+  .navbar-nav {
+    padding: 5px;
+  }
+
+}
+
+.why-accurate .main-pic img {
+  max-width: 95%
+}
+/*End Ovveride*/
