@@ -4,4 +4,4 @@ home page for accurate system company
 
 #### License
 
-MIT
+MIT# landing_page_accuratesystem
