@@ -42,7 +42,7 @@ app_license = "MIT"
 #	"Role": "home_page"
 # }
 role_home_page = {
-		"Guest": "index"
+		"Guest": "index-ar"
 }
 
 # Website user home page (by function)
